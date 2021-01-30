@@ -8,27 +8,31 @@
 # Contents
 
 **Files and Installation**
-Files, Installation and Execution **............................................................... 3**
 
-**Basic Structure**
-Tables and Relations **................................................................................ 4**
-Entity Relationship (ER) Representation **.................................................. 5 – 6**
-Relational Data Mapping **.......................................................................... 6 – 7**
-3NF and BCNF **......................................................................................... 7 – 8**
+Files, Installation and Execution
+
+**Tables and Relations**
+
+* Entity Relationship (ER) Representation
+
+* Relational Data Mapping
+
+* 3NF and BCNF
+
 
 **Microsoft Access**
-Tables and Forms **.................................................................................... 9**
-Reports and Switchboard **........................................................................ 10**
+* Tables and Forms
+* Reports and Switchboard
 
 **Additional Information**
-Upcoming Update Features **...................................................................... 11**
-Sources and Studying Material **................................................................. 11**
+
+Upcoming Update Features
+
+Sources and Studying Material
 
 
 # Files and Installation
-
 ## File Structure
-
 - **Database** or **Database.accdb** : MS-ACCESS Tables, Queries, Forms, Reports
     and Switchboard
 - **Diagrams** (Directory)
@@ -236,9 +240,14 @@ On Microsoft Access
 # Sources and Studying Material
 
 [Relational Data Mapping](https://www.youtube.com/watch?v=CZTkgMoqVss)
+
 [ACCESS Forms](https://www.youtube.com/watch?v=dEaQIrw3CZY)
+
 [ACCESS Reports](https://www.youtube.com/watch?v=1XUeGq80R5Q&t=55s)
+
 [ACCESS Switchboard](https://www.youtube.com/watch?v=NF2GSvzV7qg&t=163s)
+
 [3NF](https://www.youtube.com/watch?v=aAx_JoEDXQA)
+
 [BCNF](https://www.youtube.com/watch?v=NNjUhvvwOrk&t=103s)
 
