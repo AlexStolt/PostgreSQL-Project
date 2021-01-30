@@ -1,11 +1,9 @@
 # PostgreSQL Project
-
 ## Small Company Database
-
 #### Αλέξανδρος Στολτίδης (2824)
 
 ## Contents
-**Tables and Relations**
+### Tables and Relations
 
 * Entity Relationship (ER) Representation
 
@@ -13,12 +11,11 @@
 
 * 3NF and BCNF
 
-
-**Microsoft Access**
+### Microsoft Access
 * Tables and Forms
 * Reports and Switchboard
 
-**Additional Information**
+### Additional Information
 
 Upcoming Update Features
 
@@ -27,33 +24,32 @@ Sources and Studying Material
 
 ## Files and Installation
 ### File Structure
-- **Database** or **Database.accdb** : MS-ACCESS Tables, Queries, Forms, Reports
+* **Database** or **Database.accdb**: MS-ACCESS Tables, Queries, Forms, Reports
     and Switchboard
-- **Diagrams** (Directory)
-    ◦ **ER_Diagram** or **ER_Diagram.erx** : Entity Relationship (ER) Diagram
-    ◦ **RDM** or **RDM.draw.io** : Relational Data Mapping (RDM) Diagram
-- **Images** (Directory)
-    ◦ **Database_Forms** or **Database_Forms.png** : MS-ACCESS Forms
-    ◦ **Database_Reports or Database_Reports.png** : MS-ACCESS Reports
-    ◦ **Database_Tables or Database_Tables.png** : MS-ACCESS Tables
-    ◦ **ER_basic_notation** or **ER_basic_notation.png** : Basic ER Diagram
-    ◦ **ER_min_max** or **ER_min_max.png** : ER Diagram with (min, max)
-    ◦ **RDM** or **RDM.png** : Relational Data Mapping Diagram
-- **Project Instructions** (Directory)
-    ◦ **Instructions** or **Instructions.pdf** : Project Instructions
-    ◦ **Installation Guide** or **Installation Guide.pdf** : Installation Instructions
+* **Diagrams** (Directory)
+    * **ER_Diagram** or **ER_Diagram.erx** : Entity Relationship (ER) Diagram
+    * **RDM** or **RDM.draw.io** : Relational Data Mapping (RDM) Diagram
+* **Images** (Directory)
+    * **Database_Forms** or **Database_Forms.png** : MS-ACCESS Forms
+    * **Database_Reports or Database_Reports.png** : MS-ACCESS Reports
+    * **Database_Tables or Database_Tables.png** : MS-ACCESS Tables
+    * **ER_basic_notation** or **ER_basic_notation.png** : Basic ER Diagram
+    * **ER_min_max** or **ER_min_max.png** : ER Diagram with (min, max)
+    * **RDM** or **RDM.png** : Relational Data Mapping Diagram
+* **Project Instructions** (Directory)
+    * **Instructions** or **Instructions.pdf** : Project Instructions
+    * **Installation Guide** or **Installation Guide.pdf** : Installation Instructions
        for PostgreSQL, ODBC Driver and MS-ACCESS Connection
 
 ## Installation
-
-For Relational Data Mapping (RDM) Diagrams Install Draw.io or Open From
+* For Relational Data Mapping (RDM) Diagrams Install Draw.io or Open From
 Browser with https://app.diagrams.net/
-For PostgreSQL and MS-ACCESS Follow the Instructions on **Installation Guide**
+* For PostgreSQL and MS-ACCESS Follow the Instructions on **Installation Guide**
 
 ## Execution
-
 Open Database or Database.accdb with Microsoft Access
 Go to Forms→Switchboard, Right Click and Open
+
 If you have an ODBC Installed Run Queries with Pass-Through
 
 
