@@ -109,34 +109,36 @@ Open Existing Diagram or **File → Open from → Device** and Select Diagrams/R
 **File → Open** and Select **Diagrams/RDM** or **Diagrams/RDM.draw.io**
 
 ## Relational Data Mapping Diagram Relations
+![rdm](Images/RDM.png)
 
 ## 3NF and BCNF
+### Employee Table
+<pre>
+<b>employee_id</b> first_name last_name phone_number <b>department_id</b>
+</pre>
 
-**Employee Table**
+### Department Table
+<pre>
+<b>department_id</b> name
+</pre>
 
-```
-employee_id first_name last_name phone_number department_id
-```
-**Department Table**
+### Locations Table
 
-```
-department_id name
-```
-**Locations Table**
+<pre>
+<b>employee_id</b> name
+</pre>
 
-```
-employee_id name
-```
-**Project Table**
+### Project Table
 
-```
-project_id name department_id
-```
-**Employees – Projects (works-on) Table**
+<pre>
+<b>project_id</b> name <b>department_id</b>
+</pre>
 
-```
-employee_id project_id hours
-```
+### Employees – Projects (works-on) Table
+
+<pre>
+<b>employee_id</b> <b>project_id</b> hours
+</pre>
 
 ## 3NF Criteria
 
