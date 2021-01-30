@@ -85,37 +85,28 @@ Name
 6. A **Project** must be developed by at least one **Employee** (1, N)
 
 
-# Entity Relationship (ER) Representation
-
-## Instructions to Open the ER Diagram
-
-1. On Submit Folder Search for the File **Diagrams/ER_Diagram** or for
-    **Diagrams/ER_Diagram.erx**
+## Entity Relationship (ER) Representation
+### Instructions to Open the ER Diagram
+1. On Submit Folder Search for the File **Diagrams/ER_Diagram** or for **Diagrams/ER_Diagram.erx**
 2. Download and Launch ER2SQL
-3. On **ER2SQL** go to **File** → **Open** and Select the **Diagrams/ER_Diagram** or
-    the **Diagrams/ER_Diagram.erx**
+3. On **ER2SQL** go to **File** → **Open** and Select the **Diagrams/ER_Diagram** or the **Diagrams/ER_Diagram.erx**
 
-## ER Diagram (Basic Notation)
+### ER Diagram (Basic Notation)
+![basic_notation](Images/ER_basic_notation.png)
 
+### ER Diagram ((min, max) Notation)
+![min-max_notation](Images/ER_min_max.png)
 
-## ER Diagram ((min, max) Notation)
-
-# Relational Data Mapping
-
+## Relational Data Mapping
 ## Instructions to Open the Relational Data Mapping Diagram
-
 Download and Install Or Open Online Draw.io from https://app.diagrams.net/
 
 ### Online Driver
-
-## • Open Existing Diagram or
-
-## • File → Open from → Device and Select Diagrams/RDM or Diagrams/RDM.draw.io
+Open Existing Diagram or **File → Open from → Device** and Select Diagrams/RDM or Diagrams/RDM.draw.io
 
 ### Downloaded Program
 
-- **File → Open** and Select **Diagrams/RDM** or **Diagrams/RDM.draw.io**
-
+**File → Open** and Select **Diagrams/RDM** or **Diagrams/RDM.draw.io**
 
 ## Relational Data Mapping Diagram Relations
 
