@@ -4,13 +4,7 @@
 
 #### Αλέξανδρος Στολτίδης (2824)
 
-
-# Contents
-
-**Files and Installation**
-
-Files, Installation and Execution
-
+## Contents
 **Tables and Relations**
 
 * Entity Relationship (ER) Representation
@@ -31,8 +25,8 @@ Upcoming Update Features
 Sources and Studying Material
 
 
-# Files and Installation
-## File Structure
+## Files and Installation
+### File Structure
 - **Database** or **Database.accdb** : MS-ACCESS Tables, Queries, Forms, Reports
     and Switchboard
 - **Diagrams** (Directory)
