@@ -141,9 +141,10 @@ Open Existing Diagram or **File → Open from → Device** and Select Diagrams/R
 </pre>
 
 ## 3NF Criteria
-
-- Must be in 1NF
-- There are NO Transitive Dependencies
+```
+1. Must be in 1NF
+2. There are NO Transitive Dependencies
+```
 
 _All Above Tables Indicate that all 3NF Criteria are Valid_
 1) There are no Transitive Dependencies since Non-Prime Attributes Depend
@@ -157,10 +158,9 @@ Only on Prime Attributes (Primary Keys)
 ## BCNF Criteria
 
 ```
-1) Must be in 3NF
-2) If A → B then A must be a Super Key
-If A Derives B and B is a Prime Attribute A Can Not be a NON-Prime
-Attribute
+1. Must be in 3NF
+2. If A → B then A must be a Super Key (If A Derives B and B is a Prime Attribute A Can Not be a NON-Prime
+Attribute)
 ```
 _All Above Tables Indicate that all BCNF Criteria are Valid_
 1) All Above Tables are in 3NF
