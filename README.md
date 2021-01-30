@@ -167,9 +167,9 @@ _All Above Tables Indicate that all BCNF Criteria are Valid_
 2) No Prime Attribute is Derived by a Non-Prime Attribute
 
 
-# Database with MS Access
+## Database with MS Access
 
-## Tables
+### Tables
 
 - **Departments**
 - **Employees**
@@ -178,7 +178,7 @@ _All Above Tables Indicate that all BCNF Criteria are Valid_
 - Work On (Relationship Between **Employees** and **Projects** )
 - Switchboard Items (Used for Switchboard)
 
-## Forms
+### Forms
 
 - **Departments Form** to Insert a Department
 - **Locations Form** to Insert a Location
@@ -188,7 +188,7 @@ _All Above Tables Indicate that all BCNF Criteria are Valid_
 - **Switchboard** to Control All Forms Above
 
 
-## Reports
+### Reports
 
 - **Employees and Projects** : Displays Employee’s Info and the Name of the Project the
     Employee is working on
@@ -201,9 +201,9 @@ _All Above Tables Indicate that all BCNF Criteria are Valid_
 - Projects Table: Displays all Projects
 - Employees Table: Displays all Employees
 
-# Switchboard and Database
+### Switchboard and Database
 
-## Open Switchboard
+### Open Switchboard
 
 On Microsoft Access
 
@@ -212,7 +212,7 @@ On Microsoft Access
 (Note: Maintain Data Option Feature is to be Added on Future Versions)
 
 
-# Upcoming Update
+## Upcoming Update
 
 - Connect Database to a Node.js API with “pg” Driver to get rid of MS-ACCESS
 - Implement Delete and Maintain Queries to Accomplish a Complete Database
@@ -222,7 +222,7 @@ On Microsoft Access
 - Create a Super-Class Person to Overlap or Disjoint with the Different
     Employees the Company may have
 
-# Sources and Studying Material
+## Sources and Studying Material
 
 [Relational Data Mapping](https://www.youtube.com/watch?v=CZTkgMoqVss)
 
