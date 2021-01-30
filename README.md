@@ -31,8 +31,8 @@ Sources and Studying Material
     * **RDM** or **RDM.draw.io** : Relational Data Mapping (RDM) Diagram
 * **Images** (Directory)
     * **Database_Forms** or **Database_Forms.png** : MS-ACCESS Forms
-    * **Database_Reports or Database_Reports.png** : MS-ACCESS Reports
-    * **Database_Tables or Database_Tables.png** : MS-ACCESS Tables
+    * **Database_Reports** or **Database_Reports.png** : MS-ACCESS Reports
+    * **Database_Tables** or **Database_Tables.png** : MS-ACCESS Tables
     * **ER_basic_notation** or **ER_basic_notation.png** : Basic ER Diagram
     * **ER_min_max** or **ER_min_max.png** : ER Diagram with (min, max)
     * **RDM** or **RDM.png** : Relational Data Mapping Diagram
@@ -47,32 +47,34 @@ Browser with https://app.diagrams.net/
 * For PostgreSQL and MS-ACCESS Follow the Instructions on **Installation Guide**
 
 ## Execution
-Open Database or Database.accdb with Microsoft Access
-Go to Forms→Switchboard, Right Click and Open
+1. Open Database or Database.accdb with Microsoft Access
+2. Go to Forms→Switchboard, Right Click and Open
+    * If you have an ODBC Installed Run Queries with Pass-Through
 
-If you have an ODBC Installed Run Queries with Pass-Through
 
+## Small Company Database
 
-# Small Company Database
-
-## Basic Structure and Data
+### Basic Structure and Data
 
 A company consists of many **Departments** , **Employees** and **Projects**
 
-```
-Department’s Attributes
+<pre>
+<b>Department’s Attributes</b>
 Name
-```
-```
-Employee's Attributes
+</pre>
+
+<pre>
+<b>Employee's Attributes</b>
 First Name
 Last Name
 Phone Number
-```
-```
-Project's Attributes
+</pre>
+
+<pre>
+<b>Project's Attributes</b>
 Name
-```
+</pre>
+
 ## Database Relations
 
 1. A **Department** can, but is not necessary, to have many **Employees** (0, N)
