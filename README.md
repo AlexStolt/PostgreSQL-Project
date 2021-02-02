@@ -202,9 +202,6 @@ _All Above Tables Indicate that all BCNF Criteria are Valid_
 - Employees Table: Displays all Employees
 
 ### Switchboard and Database
-
-### Open Switchboard
-
 On Microsoft Access
 
 1. **Forms → Switchboard** (Right Click → Open)
